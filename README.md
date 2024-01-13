@@ -1,4 +1,4 @@
-# Blockchain council certified blockchain expert course
+# Blockchain Council Certified Blockchain Expert course
 
 **This repository contains course materials for the Blockchain Council Certified Blockchain Expert certification program**<br>
 
